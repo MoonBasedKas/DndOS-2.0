@@ -1,0 +1,120 @@
+The traveler
+fighter
+human
+------------------------------------------------------------
+Armor Class: 
+Speed: 30
+Initiative: 
+Health: 16
+Current Health: 
+------------------------------------------------------------
+Str: 17
+Dex: 13
+Con: 14
+Int: 9
+Wis 9
+Cha 20
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 3
+Dexterity: 1
+Constitution: 2
+Intelligence: -1
+Wisdom: -1
+Charisma: 5
+------------------------------------------------------------
+Skills
+--
+Athletics: 3
+Acrobatics: 1
+Sleight of Hand: 1
+Stealth: 1
+Arcana: -1
+History: -1
+Investigation: -1
+Nature: -1
+Religion: -1
+Animal Handling: 24
+Insight: -1
+Medicine: -1
+Perception: -1
+Survival: 24
+Deception: 5
+Performance: 5
+Intimidation: 5
+Persuasion: 5
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Short sword
+Attack Bonus: +5
+Damage: 1d6+3
+Description
+
+
+--
+Attacks
+--
+Attack Type: Short sword offhand
+Attack Bonus:
+Damage: 1d6
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
