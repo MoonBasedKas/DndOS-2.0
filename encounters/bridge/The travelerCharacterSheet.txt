@@ -2,11 +2,11 @@ The traveler
 fighter
 human
 ------------------------------------------------------------
-Armor Class: 
+Armor Class: 15
 Speed: 30
-Initiative: 
+Initiative: 1
 Health: 16
-Current Health: 
+Current Health: 16
 ------------------------------------------------------------
 Str: 17
 Dex: 13
@@ -60,7 +60,7 @@ Attack Type: Short sword offhand
 Attack Bonus:
 Damage: 1d6
 Description
-
+Must be used as a bonus action.
 
 --
 ------------------------------------------------------------
@@ -71,11 +71,21 @@ Proficiency:
 ------------------------------------------------------------
 Traits
 ------------------------------------------------------------
-Trait: 
+Trait: Action surge
 --
 Description
+Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
 
+Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest,
+ but only once on the same turn.
 
+--
+Trait: Second wind
+--
+Description
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+
+Once you use this feature, you must finish a short or long rest before you can use it again.
 --
 ------------------------------------------------------------
 Equipment
