@@ -1,0 +1,8 @@
+Upon entering Tlatamatti will give you his spiel and then tell you to enter through the front door. 
+When entering you'll seen the room under construction and Tlatamatti will tell you he should have contracted 
+someone else to do this. Disapointed he will instruct you to just go into the next room. 
+
+If you investigate you'll notice nobody has touched this place in a while as if they just took the money and 
+ran away. You may also hear slight banging on the wall. You can also find a rune powder bomb that will destroy 
+the wall. Upon exploding it does 4d12 Damage within a 30ft radius. When exploding you'll find a caved in area 
+with skeletons strung across and a singular zombie who died during the blast.
