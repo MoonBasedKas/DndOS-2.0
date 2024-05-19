@@ -1,0 +1,135 @@
+Commoner
+None
+Human
+------------------------------------------------------------
+Armor Class: 
+Speed: 30
+Initiative: 
+Health: 4
+Current Health: 
+------------------------------------------------------------
+Str: 10
+Dex: 10
+Con: 10
+Int: 10
+Wis 10
+Cha 10
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: 0
+Constitution: 0
+Intelligence: 0
+Wisdom: 0
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: 0
+Sleight of Hand: 0
+Stealth: 0
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 0
+Animal Handling: 0
+Insight: 0
+Medicine: 0
+Perception: 0
+Survival: 0
+Deception: 0
+Performance: 0
+Intimidation: 0
+Persuasion: 0
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Club
+Attack Bonus: 2
+Damage: 1d4
+Description
+
+
+--
+--
+Attack Type: Pitchfork
+Attack Bonus: 2
+Damage: 1d4
+Description
+Reach can attack an extra 5 feet away.
+
+--
+--
+Attack Type: Dagger 
+Attack Bonus: 2
+Damage: 1d4
+Description
+
+
+--
+--
+Attack Type: Torch 
+Attack Bonus: 2
+Damage: 1d4 
+Description
+Upon hit ignite the target. Target takes 1d4 damage each turn.
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

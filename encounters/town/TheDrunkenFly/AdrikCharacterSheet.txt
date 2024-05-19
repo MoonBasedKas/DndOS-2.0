@@ -1,0 +1,111 @@
+Adrik
+Bartender
+Human
+------------------------------------------------------------
+Armor Class: 
+Speed: 30
+Initiative: 
+Health: 20
+Current Health: 
+------------------------------------------------------------
+Str: 10
+Dex: 11
+Con: 19
+Int: 11
+Wis 13
+Cha 19
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: 0
+Constitution: 4
+Intelligence: 0
+Wisdom: 1
+Charisma: 6
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: 0
+Sleight of Hand: 0
+Stealth: 0
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 0
+Animal Handling: 1
+Insight: 1
+Medicine: 1
+Perception: 1
+Survival: 1
+Deception: 6
+Performance: 4
+Intimidation: 4
+Persuasion: 8
+------------------------------------------------------------
+Attacks
+--
+Attack Type: 
+Attack Bonus: 
+Damage:
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
