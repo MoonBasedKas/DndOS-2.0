@@ -17,4 +17,7 @@ Also detects bacteria.
 -
 A scroll of Mark:
 Summons a guy named mark.
+Note only one mark can exist at once. Upon the death of mark the scroll will not summon 
+mark and instead his brother John will be there. If you ask what happened to Mark John will tell 
+you I have no idea I was just sipping tea and appeared here.
 -

@@ -1,0 +1,19 @@
+You are warped outside of a golden tower. Inside is a massive casino. everyone starts with 1 gold and 
+must make 100. Upon failing a saving throw you must pass a con check otherwise become drunk.
+
+If you go broke you will be given a second chance with a goal only 25.
+
+If you go broke a second time you will be asked to instead just kill the dealer.
+
+You can play poker in which you need to roll the highest on a d20 at the table. Bets under under 3 all oppents 
+will recieve a -5 to their roll. Bets Under 5 all oppents recieve a -2. Winning this you will recieve 3x.
+
+You can play chess in which you need to win by a lead of 3 intillegence saving throw rolls. Winning this you recieve 2x.
+
+There is a cup guessing game in which if you succeed a percetion vs slight of hand throw you'll be told which one.
+Otherwise I roll a 1d4 and if the guess that cup they win. (4 cups in total)
+
+Casting the cursed fireball scroll will actually get you kicked out and instantly succeed. Tlatemmati will be disapointed.
+
+Casting the cursed mark scroll Tlatemmati will be confused on what Mark could possibly do for you here and why you have 
+a scroll that summons an ordinary dude.

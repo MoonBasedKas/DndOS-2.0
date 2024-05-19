@@ -1,0 +1,111 @@
+Tlatamatti
+God of endurance
+God
+------------------------------------------------------------
+Armor Class: 
+Speed: 60
+Initiative: 
+Health: 104
+Current Health: 
+------------------------------------------------------------
+Str: 25
+Dex: 24
+Con: 20
+Int: 15
+Wis 13
+Cha 11
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 11
+Dexterity: 11
+Constitution: 9
+Intelligence: 2
+Wisdom: 1
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 11
+Acrobatics: 11
+Sleight of Hand: 7
+Stealth: 7
+Arcana: 2
+History: 2
+Investigation: 2
+Nature: 2
+Religion: 6
+Animal Handling: 1
+Insight: 1
+Medicine: 1
+Perception: 1
+Survival: 5
+Deception: 0
+Performance: 0
+Intimidation: 0
+Persuasion: 0
+------------------------------------------------------------
+Attacks
+--
+Attack Type: 1d8
+Attack Bonus: +11
+Damage: 1d6 + 7
+Description
+A very strong punch. Upon successful knock downs he regans his action.
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
