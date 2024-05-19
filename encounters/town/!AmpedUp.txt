@@ -5,3 +5,9 @@ animals. DC 15
 Upon success you learn hes telling you about a magic power he made that amps you up.
 You can follow him and he will give you some. Taking the powder will remove your 
 ability to speak for the next 24 hours.
+
+People who are unable to speak can also be hurt and killed.
+
+Upon telling the guards about the drug den you'll notice there's a 50 percent chance a guard 
+can only speak in grunts and a 1/10 chance anyone else but shop keeps can. The king from there 
+on out will be unable to speak.

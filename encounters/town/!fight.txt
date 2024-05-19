@@ -1,3 +1,6 @@
 Two groups of random peasants will randomly be fighting.
 
 4 v 4
+
+If the gaurds have discovered amp none of them are capable of speaking and this is 
+able to occur more than once now.
