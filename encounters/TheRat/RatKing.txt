@@ -5,8 +5,8 @@ Human
 Armor Class: 14
 Speed: 30
 Initiative: 0
-Health: 36
-Current Health: 46 
+Health: 40
+Current Health: 44 
 ------------------------------------------------------------
 Str: 16
 Dex: 11
@@ -47,31 +47,31 @@ Persuasion: 4
 ------------------------------------------------------------
 Attacks
 --
-Attack Type: Short Sword of draining 
-Attack Bonus: 6
-Damage: 1d8 + 3 Slashing 
+Attack Type: Rat Short Sword
+Attack Bonus: 2
+Damage: 1d8  
 Description
-Heal 1d4 hp per successful hit.
-On critical hit gain 10 temperary hitpoints.
+Upon hit a rat is summoned behind the creature that is hit.
 
 --
 Attacks
 --
-Attack Type: Eldritch Blast
-Attack Bonus: 7
-Damage: 1d10 * 2
+Attack Type: Rat Eldritch Blast
+Attack Bonus: 2
+Damage: 1d6 
 Description
-Two seperate beams that each make their own attack.
+Summon a flaming rat that is then shot at the target. Upon hit the target must make a dex 
+short and be set on fire upon failing. (DC 14)
 
 
 --
 Attacks
 --
-Attack Type: 
-Attack Bonus: 
-Damage:
+Attack Type: Rat Staff 
+Attack Bonus: 10
+Damage: 1
 Description
-
+Upon hit recieve disadvantage when attacking for your next turn.
 
 --
 ------------------------------------------------------------
@@ -86,7 +86,7 @@ Trait: RISE RATS
 --
 Description
 Always have at least 4 rats nearby. When there are less than 4 rats another 
-2d4 + 4 rats are summoned near the rat king within 20ft.
+2d4 rats are summoned near the rat king within 20ft.
 
 --
 ------------------------------------------------------------

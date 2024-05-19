@@ -2,11 +2,11 @@ Adrik
 Bartender
 Human
 ------------------------------------------------------------
-Armor Class: 
+Armor Class: 10
 Speed: 30
-Initiative: 
+Initiative: 0
 Health: 20
-Current Health: 
+Current Health: 20
 ------------------------------------------------------------
 Str: 10
 Dex: 11
