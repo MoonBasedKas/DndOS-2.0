@@ -35,7 +35,8 @@ a way of murder is legal shout into the sky and I shall answer.
 
 Killing the assassian. If you directly kill the assassian the rules will be bent as a reward for your heroic acts to the village. Instead 
 they shall countinue to suffer at the hands of a tyrant. However, perhaps it was worth letting the Bhaal worshipper lead his village.
-Whenever you make an attack you will recieve 1d4 radaant damage.
+Whenever you make an attack you will recieve 1d4 radaant damage. From here you can decide to personally kill the king without any debuff 
+and upon killing the king yourself recieve a +1 damage to all sources of applied damage.
 
 Helping the assassian:
 He will ask you to come to somewhere private. Taking you to the windy inn room 3.

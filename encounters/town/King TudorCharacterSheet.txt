@@ -1,0 +1,111 @@
+King Tudor
+Noble
+Human
+------------------------------------------------------------
+Armor Class: 9
+Speed: 30
+Initiative: -1
+Health: 28
+Current Health: 28
+------------------------------------------------------------
+Str: 11
+Dex: 9
+Con: 13
+Int: 10
+Wis 11
+Cha 17
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: -1
+Constitution: 1
+Intelligence: 0
+Wisdom: 0
+Charisma: 3
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: -1
+Sleight of Hand: -1
+Stealth: -1
+Arcana: 0
+History: 0
+Investigation: 0
+Nature: 0
+Religion: 0
+Animal Handling: 0
+Insight: 0
+Medicine: 0
+Perception: 0
+Survival: 0
+Deception: 3
+Performance: 3
+Intimidation: 3
+Persuasion: 6
+------------------------------------------------------------
+Attacks
+--
+Attack Type: The sword of Wind Rock
+Attack Bonus: 4
+Damage: 1d6 + 6 Physic damage
+Description
+
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 

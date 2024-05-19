@@ -1,0 +1,127 @@
+Omega
+Rouge
+human
+------------------------------------------------------------
+Armor Class: 16
+Speed: 30
+Initiative: 4
+Health: 48
+Current Health: 48
+------------------------------------------------------------
+Str: 11
+Dex: 18
+Con: 14
+Int: 10
+Wis 10
+Cha 10
+------------------------------------------------------------
+Saving Throws
+--
+Strength: 0
+Dexterity: 8
+Constitution: 2
+Intelligence: 0
+Wisdom: 4
+Charisma: 0
+------------------------------------------------------------
+Skills
+--
+Athletics: 0
+Acrobatics: 8
+Sleight of Hand: 12
+Stealth: 12
+Arcana: 0
+History: 0
+Investigation: 4
+Nature: 0
+Religion: 0
+Animal Handling: 0
+Insight: 4
+Medicine: 0
+Perception: 0
+Survival: 0
+Deception: 0
+Performance: 0
+Intimidation: 0
+Persuasion: 0
+------------------------------------------------------------
+Attacks
+--
+Attack Type: Dagger of Second Chances
+Attack Bonus: 8
+Damage: 1d4 + 4
+Description
+Upon missing may use your off hand attack with your Proficiency bonus.
+
+--
+--
+Attack Type: Assassian's Dagger
+Attack Bonus: 0
+Damage: 1d4
+Description
+When main hand attack misses you may apply posion without wasting a turn.
+
+--
+------------------------------------------------------------
+Misc Proficiencies
+--
+Proficiency: 
+--
+------------------------------------------------------------
+Traits
+------------------------------------------------------------
+Trait: 
+--
+Description
+
+
+--
+------------------------------------------------------------
+Equipment
+------------------------------------------------------------
+Item: Basic poision x10
+--
+Description
+On a successful attack the oppent must make a saving throw. Upon failing they recieve the 
+poisoned trait.
+
+--
+Item: Wyvern Toxin 
+--
+Description
+Upon hit the oppent takes 1d4 poisoin damage. This effect  is applied to a weapon 
+and lasts 10 turns.
+
+--
+------------------------------------------------------------
+------------------------------------------------------------
+Spells
+--
+-
+Spell: 
+Description:
+
+
+-
+--
+------------------------------------------------------------
+Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
+Used Spell slots:
+1: 
+2: 
+3: 
+4: 
+5: 
+6: 
+7: 
+8: 
+9: 
