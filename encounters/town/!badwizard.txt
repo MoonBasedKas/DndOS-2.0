@@ -1,0 +1,20 @@
+A wizard comes by and offers each party members a scorll of their choice. 
+-
+A scroll of water walking:
+The nearest container with waker in it begins to walk away.
+-
+The scroll of divine intervention:
+A random plant nearby catches fire.
+-
+A scroll of fireball:
+Fireball is cast 500 feet in the air above the target location.
+-
+A scroll of Summon Skeleton:
+A pile of bones appears whereever it is casted.
+-
+A scroll of Detect Life:
+Also detects bacteria.
+-
+A scroll of Mark:
+Summons a guy named mark.
+-
