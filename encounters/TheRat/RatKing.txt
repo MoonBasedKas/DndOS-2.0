@@ -2,7 +2,7 @@ THE RAT KING
 Warlock
 Human
 ------------------------------------------------------------
-Armor Class: 14
+Armor Class: 16
 Speed: 30
 Initiative: 0
 Health: 40
@@ -85,8 +85,9 @@ Traits
 Trait: RISE RATS 
 --
 Description
-Always have at least 4 rats nearby. When there are less than 4 rats another 
-2d4 rats are summoned near the rat king within 20ft.
+Always have at least 4 rats nearby. When there <= 4 rats another 
+2d4 rats are summoned near the rat king within 20ft. They recieve 
+an additional 5 health.
 
 --
 ------------------------------------------------------------

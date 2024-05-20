@@ -6,7 +6,7 @@ Armor Class: 17
 Speed: 30
 Initiative: 1
 Health: 60
-Current Health: 60
+Current Health: 607
 ------------------------------------------------------------
 Str: 18
 Dex: 12
